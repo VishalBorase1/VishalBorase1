@@ -1,5 +1,7 @@
 ### Hi, there !! I am Vishal Borase 👋
 -  ✨I’m Full Stack Developer...
+-  passionate coder..
+-  Software devlelopment
 
    
 <!--
