@@ -3,7 +3,7 @@
 -  passionate coder..✨
 -  Software development
 -  Web Developement
-- 📫 How to reach me: ...
+- 📫 reach me on : ...
   ## Contact me :
   Email : vishal.borase.023@gmail.com
  
